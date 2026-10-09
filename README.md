@@ -120,3 +120,4 @@ cargo run
 
 # 3. Build optimized native release binary for Windows
 cargo build --release
+
